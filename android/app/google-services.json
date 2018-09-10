@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "36266149235",
+    "firebase_url": "https://react-native-fcm-sample-7fdd2.firebaseio.com",
+    "project_id": "react-native-fcm-sample-7fdd2",
+    "storage_bucket": "react-native-fcm-sample-7fdd2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36266149235:android:28060aae325eccf3",
+        "android_client_info": {
+          "package_name": "com.reactnativepushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36266149235-ruoan1tnmbah52ko6fq9hgq7j3ammj3r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM4V44S4oT0TVa_dj-0KuQL5gYk0G2F3M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
